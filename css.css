@@ -73,7 +73,7 @@ background-color:rgba(229, 235, 243, 0.9);
 }
 
 .slide:nth-child(3) {
-  background: url("mik.JPG") no-repeat
+  background: url("mik.PNG") no-repeat
     center center/contain;
 }
 
